@@ -29,9 +29,9 @@ const PopularPosts = [
 
 const aboutdata=[
     {
-       Image:"https://www.w3schools.com/w3images/avatar_g.jpg",
-       heading:"My Name",
-       about:"Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.       "
+       Image:"https://t4.ftcdn.net/jpg/04/86/86/09/240_F_486860921_C41XqPSIILWdQGzO6ufHYpzTMrnzzddE.jpg",
+       heading:"Anonymous",
+       about:"This Anonymous blog page allows individuals to share their thoughts, experiences, and creativity without revealing their identities. Content may include personal stories, opinions on various topics, advice, creative writing, anonymously submitted content, and community interaction through comments."
     }
 ]
 
