@@ -1,4 +1,4 @@
-# React Blog Page Front-end 
+# React Blog Page
 
 ## Overview
 
@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-Once the development server is running, you can access the blog page in your web browser at `http://localhost:3000`.
+Once the development server is running, you can access the blog page in your web browser at `http://localhost:3000`. 
 
 ## Screenshots
 
