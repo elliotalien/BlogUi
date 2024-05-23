@@ -1,4 +1,4 @@
-# React Blog Page Front-end 
+# React Blog Page
 
 ## Overview
 
